@@ -1,0 +1,9 @@
+{
+  "version": "0.5.0",
+  "url": "https://github.com/Kethku/neovide/releases/download/0.5.0/neovide.exe",
+  "bin": "neovide.exe",
+  "homepage": "https://github.com/Kethku/neovide",
+  "suggest": {
+    "neovim": ["neovim", "neovim-nightly"]
+  }
+}
