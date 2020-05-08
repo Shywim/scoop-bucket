@@ -1,9 +1,9 @@
 {
-  "version": "master",
+  "version": "5884218",
   "description": "A file watching service",
   "homepage": "https://facebook.github.io/watchman/",
   "license": "Apache-2.0",
-  "url": "https://github.com/facebook/watchman/suites/663914311/artifacts/5884218",
+  "url": "https://raw.githubusercontent.com/Shywim/scoop-bucket/master/dist/watchman.zip",
   "bin": "watchman.exe",
   "extract_dir": "windows/bin"
 }
