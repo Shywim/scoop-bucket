@@ -4,6 +4,7 @@
   "homepage": "https://facebook.github.io/watchman/",
   "license": "Apache-2.0",
   "url": "https://raw.githubusercontent.com/Shywim/scoop-bucket/master/dist/watchman.zip",
+  "hash": "sha256:eb4d90075cd009c8d5087e52e71a607fd00f10a155aa2c694474d6bb2f17dfdc",
   "bin": "watchman.exe",
   "extract_dir": "windows/bin"
 }
