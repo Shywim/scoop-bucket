@@ -1,10 +1,10 @@
 {
-  "version": "5884218",
+  "version": "2020.08.17.00",
   "description": "A file watching service",
   "homepage": "https://facebook.github.io/watchman/",
   "license": "Apache-2.0",
-  "url": "https://raw.githubusercontent.com/Shywim/scoop-bucket/master/dist/watchman.zip",
-  "hash": "sha256:eb4d90075cd009c8d5087e52e71a607fd00f10a155aa2c694474d6bb2f17dfdc",
+  "url": "https://github.com/facebook/watchman/releases/download/v2020.08.17.00/watchman-v2020.08.17.00-windows.zip",
+  "hash": "sha256:B778C472DD4E93DC989DADFD7B05457B6AFEB6CF1242BEC4F03361C1865E09D7",
   "bin": "watchman.exe",
-  "extract_dir": "windows/bin"
+  "extract_dir": "watchman-v2020.08.17.00-windows/bin"
 }
